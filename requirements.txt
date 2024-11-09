@@ -1,0 +1,9 @@
+aiosmtpd
+apprise
+importlib_metadata
+pytest
+PyYAML
+PyYAML
+setuptools
+setuptools
+Sphinx
